@@ -1,5 +1,6 @@
 # Arkanoid Game – Java Project
 https://github.com/ruth-ehrmann/Arkanoid-Game.git
+
 This project is a recreation of the classic **Arkanoid** game, developed as part of a university course assignment in Java.
 
 ## 🎮 Game Features
